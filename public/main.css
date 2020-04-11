@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;700;800&family=Roboto:wght@600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  text-decoration: none;
+  font-family: 'Baloo 2', sans-serif;
+  overflow-x: hidden;
+}
+
+body {
+  background-color: #fafafa;
+}
+
+h1, h2, h3 {
+  color: #193866;
+}
+
+nav, footer {
+  position: fixed;
+  left: 0;
+  width: 100vw;
+  padding: 5px 25px;
+}
